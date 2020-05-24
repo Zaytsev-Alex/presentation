@@ -3,11 +3,11 @@ A link to your Reveal presentation : https://zaytsev-alex-presentation-blockchai
 
     [slide 0]
     
-#intro
+# intro
 
     [slide 1]
     
-#What is it?
+# What is it?
 
     [slide 2]
     
@@ -22,13 +22,13 @@ Blocks hold batches of valid transactions that are hashed and encoded into a Mer
 Sometimes separate blocks can be produced separately, creating a temporary fork. In addition to a secure hash-based history, any blockchain has a specified algorithm for scoring different versions of the history so that one with a higher score can be selected over others.
 Peer-to-peer blockchain networks haven’t centralized points that can be easily attacked. Likewise, it has no central point of failure.
 
-#Uses
+# Uses
 
     [slide 5]
     
 Blockchain technology can be integrated into multiple areas. The primary use of blockchains today is as a distributed ledger for cryptocurrencies, such as bitcoin. Businesses haven’t used blockchain technology often.
 
-#Cryptocurrencies
+# Cryptocurrencies
 
     [slide 6]
     
@@ -40,7 +40,7 @@ who previously was in charge of Messenger. Facebook's planned cryptocurrency pla
 
     [slide 9]
     
-#Smart contracts
+# Smart contracts
 
     [slide 10]
     
@@ -48,7 +48,7 @@ Blockchain-based smart contracts are contracts that can be partially or fully ex
 
     [slide 11]
     
-#Financial services
+# Financial services
 
 Major portions of the financial industry are implementing distributed ledgers for use in banking.
     [slide 12]
@@ -59,11 +59,11 @@ In December 2018, Bitwala launched Europe's first regulated blockchain banking s
 
     [slide 13]
     
-#Types
+# Types
 
 Currently, there are at least three types of blockchain networks — public blockchains, private blockchains and hybrid blockchains.
 
-#Public blockchains
+# Public blockchains
 
     [slide 14]
 
@@ -71,13 +71,13 @@ A public blockchain has absolutely no access restrictions. Anyone with an Intern
 
 Some of the largest, most known public blockchains are the bitcoin blockchain and the Ethereum blockchain.
 
-#Private blockchains
+# Private blockchains
 
     [slide 15]
     
 A private blockchain is permissioned. One cannot join it unless invited by the network administrators. Member and validator access is restricted.
 
-#Hybrid blockchains
+# Hybrid blockchains
 
     [slide 16]
     
